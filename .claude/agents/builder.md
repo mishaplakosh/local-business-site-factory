@@ -32,7 +32,7 @@ tools: Read, Write, Edit, Glob, Grep, Bash, PowerShell
 
 ## qr.png
 
-`python scripts/qr.py <url> sites/<slug>/qr.png`
+`.\scripts\qr.ps1 -Url <url> -OutFile sites\<slug>\qr.png`
 
 ## Режим виправлення
 

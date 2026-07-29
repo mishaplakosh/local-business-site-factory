@@ -17,7 +17,7 @@
 
 ## Разове налаштування
 
+- Репо публічне (Settings → Danger Zone → Change visibility)
 - GitHub Pages: Settings → Pages → Deploy from branch → `main`, папка `/docs`
-- QR: `pip install "qrcode[pil]"`
 
 Деталі пайплайну і правила — у CLAUDE.md.
