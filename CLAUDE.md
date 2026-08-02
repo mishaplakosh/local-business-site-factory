@@ -32,7 +32,7 @@
 
 ```
 .claude/agents/     scout, builder, critic
-scripts/            overpass.ps1 (запит OSM), qr.py (QR-код)
+scripts/            overpass.ps1 (запит OSM), qr.ps1 (QR-код)
 data/runs/<run-id>/ input.json, candidates.json, verification.json, rejected.json, SUMMARY.md
 data/search-cache.json
 plans/<slug>.json   готові плани (людина видаляє непотрібні)
