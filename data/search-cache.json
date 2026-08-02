@@ -1,1 +1,77 @@
-﻿{}
+{
+  "\"ЛАГУНА\" СТО Львів Боткіна": {
+    "date": "2026-08-02",
+    "summary": "Тільки агрегатори: list.in.ua, motointegrator.com, carbook.ua, ratelist.top, places.in.ua, dlab.com.ua + сторінка-рекомендація на чужому сайті stolviv.ho.ua. Власного домену не знайдено. Адреса Кульпарківська 95Б, заїзд з Боткіна, тел. 067 314-48-13 — збіг з OSM.",
+    "links": ["https://list.in.ua/%D0%A1%D0%A2%D0%9E/17574/", "https://motointegrator.com/ua/uk/stantsiya/lviv/8pdep6d3-sto-laguna", "https://carbook.ua/garages/c-lvov/9151", "http://www.stolviv.ho.ua/ukr/recomend/sto_laguna.html"]
+  },
+  "\"Автоелектроніка\" Львів Навроцького 69": {
+    "date": "2026-08-02",
+    "summary": "Неоднозначно: за адресою Навроцького 69 фігурує 'Автоелектроніка, A-100 Service' з іншими телефонами (067 675-03-73, 067 710-08-52). Також є сайт g23.lviv.ua (автоелектроніка Львів). Власного домену з телефоном 067 717 5491 не знайдено, але збіг бізнесу непевний.",
+    "links": ["https://infomisto.com/uk/lviv/catalog/avtoservis/", "https://g23.lviv.ua/poslugi/avtoelektronika/"]
+  },
+  "\"067 314 4813\" OR \"0673144813\" Львів": {
+    "date": "2026-08-02",
+    "summary": "Нічого релевантного (випадкові довідники, PDF). Власного сайту з цим телефоном не знайдено.",
+    "links": []
+  },
+  "\"067 717 5491\" OR \"0677175491\" автоелектроніка": {
+    "date": "2026-08-02",
+    "summary": "Точного збігу телефону немає. Тільки загальні інтернет-магазини автоелектроніки, жоден не з Львова за цим номером.",
+    "links": []
+  },
+  "СТО \"У Семена\" Львів": {
+    "date": "2026-08-02",
+    "summary": "Нічого про цей бізнес: результати про магазини насіння і загальні каталоги СТО. Онлайн-присутності не знайдено.",
+    "links": []
+  },
+  "СТО \"У Романа\" Львів Sprinter": {
+    "date": "2026-08-02",
+    "summary": "Нічого про цей бізнес: загальні каталоги СТО для Sprinter (list.in.ua — 26 СТО), конкуренти busservice.com.ua (ЗАС), mak-avto.com.ua мають сайти. Онлайн-присутності 'У Романа' не знайдено.",
+    "links": ["https://www.busservice.com.ua/mercedes-benz-sprinter/", "http://mak-avto.com.ua/"]
+  },
+  "\"067 722 2445\" OR \"0677222445\"": {
+    "date": "2026-08-02",
+    "summary": "Нічого релевантного (автозапчастини Dorman за схожим артикулом). Телефон ніде не публікується.",
+    "links": []
+  },
+  "\"097 360 6590\" OR \"0973606590\"": {
+    "date": "2026-08-02",
+    "summary": "Нічого релевантного. Телефон ніде не публікується.",
+    "links": []
+  },
+  "\"TND GROUP\" СТО Жовківська Львів": {
+    "date": "2026-08-02",
+    "summary": "ЗНАЙДЕНО ВЛАСНИЙ САЙТ: https://www.tndgroup.com.ua/ — 'ТНД ГРУП | Ремонт та мийка вантажних автомобілів'. Також юрособа ТОВ ТНД ГРУП (43816343) на opendatabot.",
+    "links": ["https://www.tndgroup.com.ua/", "https://opendatabot.ua/c/43816343"]
+  },
+  "\"A&P Centr\" Львів шиномонтаж": {
+    "date": "2026-08-02",
+    "summary": "ЗНАЙДЕНО ВЛАСНИЙ САЙТ: https://www.apcentr.lviv.ua/ (каталог дисків, послуги). Також Instagram @ap_centr_lviv і сторінки на агрегаторах.",
+    "links": ["https://www.apcentr.lviv.ua/", "https://www.instagram.com/ap_centr_lviv/"]
+  },
+  "\"Фенікс 555\" СТО Львів": {
+    "date": "2026-08-02",
+    "summary": "Власного сайту немає. Тільки каталоги: zaxid.net (Хуторівка 23, тел. 067 672-07-85 — інший, ніж в OSM), vse-sto.com.ua (1 відгук; пишуть, що локація на Ткацькій закрилась, лишилась Хуторівка). Адреса збігається з OSM (Хуторівка 23 = просп. Івана Павла II 23). 'Один з найбільших автосервісів Львова, 25 постів'.",
+    "links": ["https://zaxid.net/catalog/avtoservis_feniks_555_com3869", "https://vse-sto.com.ua/uk/sto/12328-feniks-555/"]
+  },
+  "\"Hydroxy\" СТО Львів Тракт Глинянський": {
+    "date": "2026-08-02",
+    "summary": "ЗНАЙДЕНО ВЛАСНИЙ САЙТ МЕРЕЖІ: https://hydroxy.com.ua/ (Hydroxy Ukraine, мережа СТО з водневими послугами по Україні, точка на Глинянському Тракті 29, Підбірці). Це мережа з сайтом.",
+    "links": ["https://hydroxy.com.ua/", "https://ua.plaso.pro/place/6520"]
+  },
+  "\"0974302146\" OR \"097 430 2146\" розвал сходження Львів": {
+    "date": "2026-08-02",
+    "summary": "Телефон ніде не знайдено. Натомість видно, що конкуренти з розвал-сходження у Львові мають сайти: iren-avtocentr.com.ua, to-avtoservis.lviv.ua, trkmotors.com, atamanservice.com.ua, pro-sto.lviv.ua.",
+    "links": ["https://iren-avtocentr.com.ua/rozval-shodzhennja/", "https://to-avtoservis.lviv.ua/uk/3d-rozval-shodzhennya-lviv/", "https://pro-sto.lviv.ua/rozval-skhodzhennia-lviv.html"]
+  },
+  "СТО Peugeot Citroen Львів Хлібна 4": {
+    "date": "2026-08-02",
+    "summary": "За адресою Хлібна 4 — офіційний сервісний центр 'Ілта-Львів' (дилерська мережа Peugeot/Citroen, сайти citroen.lviv.ua та ін.). OSM-запис 'Сервіс Peugeout-Citroen' = офіційний дилерський сервіс з сайтом.",
+    "links": ["https://citroen.lviv.ua/", "https://carbook.ua/garages/c-lvov/3095"]
+  },
+  "\"096 609 9407\" OR \"0966099407\" Фенікс": {
+    "date": "2026-08-02",
+    "summary": "Точного збігу телефону немає (тільки нерелевантні результати). Телефон з OSM ніде не публікується.",
+    "links": []
+  }
+}

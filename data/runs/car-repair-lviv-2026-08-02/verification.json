@@ -1,0 +1,90 @@
+{
+  "run_id": "car-repair-lviv-2026-08-02",
+  "note": "Тестовий ран: верифіковано топ-10 кандидатів з повними даними (назва + телефон). Решта в candidates.json позначена not_verified.",
+  "verified_candidates": [
+    {
+      "osm_id": "node/4671981089",
+      "name": "ЛАГУНА",
+      "verdict": "candidate",
+      "low_data": false,
+      "reason": "Власного сайту немає. Знайдено тільки агрегатори (list.in.ua, motointegrator.com, carbook.ua, ratelist.top, places.in.ua) — там є профілі й відгуки; адреса Кульпарківська 95Б / заїзд з вул. Боткіна, телефон 067 314-48-13 збігається з OSM. Пошук за телефоном власного домену не дав.",
+      "links_found": [
+        "https://motointegrator.com/ua/uk/stantsiya/lviv/8pdep6d3-sto-laguna",
+        "https://carbook.ua/garages/c-lvov/9151",
+        "https://list.in.ua/%D0%A1%D0%A2%D0%9E/17574/"
+      ]
+    },
+    {
+      "osm_id": "node/7368369383",
+      "name": "У Семена",
+      "verdict": "candidate",
+      "low_data": true,
+      "reason": "Нічого не знайдено ні за назвою, ні за телефоном 067 722 2445. Онлайн-присутність нульова. Конкуренти по ремонту Sprinter у Львові (busservice.com.ua, mak-avto.com.ua) мають сайти.",
+      "links_found": []
+    },
+    {
+      "osm_id": "node/8624682556",
+      "name": "У Романа",
+      "verdict": "candidate",
+      "low_data": true,
+      "reason": "Нічого не знайдено ні за назвою, ні за телефоном 097 360 6590. Онлайн-присутність нульова.",
+      "links_found": []
+    },
+    {
+      "osm_id": "way/152207075",
+      "name": "Фенікс 555",
+      "verdict": "candidate",
+      "low_data": false,
+      "reason": "Власного сайту немає, тільки каталоги (zaxid.net, vse-sto.com.ua з 1 відгуком). Адреса збігається (Хуторівка 23 = просп. Івана Павла II 23). У каталозі інший телефон (067 672-07-85), ніж в OSM — у бізнесу, схоже, кілька номерів; назва й адреса збіглись однозначно. За відгуками — великий сервіс на 25 постів.",
+      "links_found": [
+        "https://zaxid.net/catalog/avtoservis_feniks_555_com3869",
+        "https://vse-sto.com.ua/uk/sto/12328-feniks-555/"
+      ]
+    },
+    {
+      "osm_id": "node/12979796301",
+      "name": "Геометрія коліс (розвал / сходження)",
+      "verdict": "candidate",
+      "low_data": true,
+      "reason": "Телефон 0974302146 ніде не публікується, онлайн-присутність нульова. Назва описова, не бренд. Конкуренти з розвал-сходження у Львові масово мають сайти (iren-avtocentr, to-avtoservis, trkmotors, pro-sto, atamanservice).",
+      "links_found": []
+    }
+  ],
+  "rejected_after_verification": [
+    {
+      "osm_id": "node/7683112086",
+      "name": "Автоелектроніка Львів",
+      "verdict": "reject",
+      "reason": "Неоднозначність: за адресою Навроцького 69 в каталогах фігурує 'Автоелектроніка, A-100 Service' з іншими телефонами; у Львові кілька бізнесів з назвою 'Автоелектроніка' (зокрема сайт g23.lviv.ua). Однозначно зіставити OSM-запис з конкретним бізнесом неможливо. Сумнів = reject.",
+      "links_found": ["https://g23.lviv.ua/poslugi/avtoelektronika/"]
+    },
+    {
+      "osm_id": "node/11145628311",
+      "name": "TND GROUP",
+      "verdict": "reject",
+      "reason": "Знайдено власний сайт бізнесу.",
+      "links_found": ["https://www.tndgroup.com.ua/"]
+    },
+    {
+      "osm_id": "node/11730002506",
+      "name": "A&P Centr",
+      "verdict": "reject",
+      "reason": "Знайдено власний сайт бізнесу (каталог дисків і послуг) + активний Instagram.",
+      "links_found": ["https://www.apcentr.lviv.ua/", "https://www.instagram.com/ap_centr_lviv/"]
+    },
+    {
+      "osm_id": "way/363643737",
+      "name": "Hydroxy Power",
+      "verdict": "reject",
+      "reason": "Мережа Hydroxy Ukraine з власним сайтом hydroxy.com.ua (точка мережі на Глинянському Тракті).",
+      "links_found": ["https://hydroxy.com.ua/"]
+    },
+    {
+      "osm_id": "way/156336622",
+      "name": "Сервіс Peugeout-Citroen",
+      "verdict": "reject",
+      "reason": "За адресою Хлібна 4 — офіційний сервісний центр дилера 'Ілта-Львів' (мережа Peugeot/Citroen з сайтами, зокрема citroen.lviv.ua).",
+      "links_found": ["https://citroen.lviv.ua/", "https://carbook.ua/garages/c-lvov/3095"]
+    }
+  ]
+}

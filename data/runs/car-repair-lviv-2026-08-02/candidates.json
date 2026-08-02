@@ -1,0 +1,3665 @@
+﻿[
+    {
+        "osm_id":  "node/1426749343",
+        "name":  "Ніко-Захід",
+        "lat":  49.8638955,
+        "lon":  24.0377805,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Ніко-Захід",
+                     "name:uk":  "Ніко-Захід",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/1655771844",
+        "name":  "Балансування/шиномонтаж",
+        "lat":  49.8210769,
+        "lon":  23.9881935,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Балансування/шиномонтаж",
+                     "name:uk":  "Балансування/шиномонтаж",
+                     "shop":  "car_repair",
+                     "wheelchair":  "yes"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/2061641912",
+        "name":  null,
+        "lat":  49.8557054,
+        "lon":  23.9818695,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/2800006268",
+        "name":  "Шиномонтаж",
+        "lat":  49.8618993,
+        "lon":  23.9915802,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/2852302817",
+        "name":  null,
+        "lat":  49.8643040,
+        "lon":  24.0172477,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "check_date":  "2025-07-18",
+                     "internet_access":  "no",
+                     "payment:cards":  "no",
+                     "payment:cash":  "yes",
+                     "payment:credit_cards":  "no",
+                     "payment:debit_cards":  "no",
+                     "service:vehicle:alignment":  "yes",
+                     "service:vehicle:tyres":  "yes",
+                     "service:vehicle:wheels":  "yes",
+                     "shop":  "car_repair",
+                     "wheelchair":  "no"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/2969037340",
+        "name":  null,
+        "lat":  49.8167350,
+        "lon":  24.0627469,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/3104502763",
+        "name":  "Шиномонтаж",
+        "lat":  49.8322236,
+        "lon":  23.9759887,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3104502764",
+        "name":  "Шиномонтаж",
+        "lat":  49.8326758,
+        "lon":  23.9764250,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3355778275",
+        "name":  null,
+        "lat":  49.8714228,
+        "lon":  23.9301491,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "service":  "*",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/3425579819",
+        "name":  "Шиномонтаж",
+        "lat":  49.8163057,
+        "lon":  24.0625175,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3428275260",
+        "name":  "СТО",
+        "lat":  49.8009464,
+        "lon":  24.0201693,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3428467406",
+        "name":  "Шиномонтаж",
+        "lat":  49.8123453,
+        "lon":  23.9853262,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3506000813",
+        "name":  "ПАТ \"Галичина-Авто\"",
+        "lat":  49.8238694,
+        "lon":  23.9266652,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "ПАТ \"Галичина-Авто\"",
+                     "name:uk":  "ПАТ \"Галичина-Авто\"",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3589039230",
+        "name":  "Шиномонтаж",
+        "lat":  49.7862372,
+        "lon":  24.0716581,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "10:00-20:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "opening_hours":  "10:00-20:00",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3673907131",
+        "name":  "Оглядова канава",
+        "lat":  49.8351294,
+        "lon":  23.8342755,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Оглядова канава",
+                     "name:uk":  "Оглядова канава",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3680220615",
+        "name":  null,
+        "lat":  49.8274562,
+        "lon":  23.9102518,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/3708222531",
+        "name":  null,
+        "lat":  49.8154385,
+        "lon":  24.0142504,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/3712422108",
+        "name":  "СТО",
+        "lat":  49.8140689,
+        "lon":  24.0169360,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "\"за призначенням\"",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "opening_hours":  "\"за призначенням\"",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3712851706",
+        "name":  "СТО",
+        "lat":  49.8298823,
+        "lon":  23.9966653,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/3738655691",
+        "name":  "Автосервіс Баланс",
+        "lat":  49.8319319,
+        "lon":  23.9904846,
+        "phone":  null,
+        "street":  "Кульпарківська вулиця",
+        "housenr":  null,
+        "city":  null,
+        "hours":  "09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:postcode":  "79015",
+                     "addr:street":  "Кульпарківська вулиця",
+                     "name":  "Автосервіс Баланс",
+                     "name:uk":  "Автосервіс Баланс",
+                     "opening_hours":  "09:00-18:00",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4232346489",
+        "name":  "Престиж",
+        "lat":  49.8744871,
+        "lon":  23.8849010,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Престиж",
+                     "name:uk":  "Престиж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4282221499",
+        "name":  "СТО",
+        "lat":  49.8336792,
+        "lon":  23.9820177,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4302896150",
+        "name":  "Гаражний Кооператив",
+        "lat":  49.8631999,
+        "lon":  23.9482633,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Гаражний Кооператив",
+                     "name:uk":  "Гаражний Кооператив",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4314224189",
+        "name":  "Електрон СТО",
+        "lat":  49.8417921,
+        "lon":  23.9990154,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Електрон СТО",
+                     "name:uk":  "Електрон СТО",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4389645189",
+        "name":  null,
+        "lat":  49.8117439,
+        "lon":  24.0154524,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4440378490",
+        "name":  null,
+        "lat":  49.8312066,
+        "lon":  24.0440324,
+        "phone":  null,
+        "street":  "Зелена вулиця",
+        "housenr":  "67",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "67",
+                     "addr:street":  "Зелена вулиця",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4462810189",
+        "name":  null,
+        "lat":  49.8693501,
+        "lon":  24.0260976,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4467940190",
+        "name":  null,
+        "lat":  49.8552337,
+        "lon":  24.0142159,
+        "phone":  null,
+        "street":  "Варшавська вулиця",
+        "housenr":  "1",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "1",
+                     "addr:street":  "Варшавська вулиця",
+                     "check_date":  "2024-12-09",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4529245728",
+        "name":  "Шиномонтаж",
+        "lat":  49.8042780,
+        "lon":  24.0631085,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4529897989",
+        "name":  "Шиномонтаж",
+        "lat":  49.7899253,
+        "lon":  24.0159758,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4538586395",
+        "name":  "Шиномонтаж",
+        "lat":  49.7862039,
+        "lon":  24.0768077,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4538962818",
+        "name":  "СТО",
+        "lat":  49.8187676,
+        "lon":  24.1611121,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4557711395",
+        "name":  null,
+        "lat":  49.8181534,
+        "lon":  23.9763712,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4602151204",
+        "name":  "Сервіс-Авто-Плюс",
+        "lat":  49.8105052,
+        "lon":  24.0355442,
+        "phone":  null,
+        "street":  "Тернопільська вулиця",
+        "housenr":  "17",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "17",
+                     "addr:street":  "Тернопільська вулиця",
+                     "name":  "Сервіс-Авто-Плюс",
+                     "name:uk":  "Сервіс-Авто-Плюс",
+                     "service":  "repair",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4671981089",
+        "name":  "ЛАГУНА",
+        "lat":  49.8151070,
+        "lon":  23.9917549,
+        "phone":  "+380 67 314 4813",
+        "street":  "вулиця Сергія Боткіна",
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:street":  "вулиця Сергія Боткіна",
+                     "email":  "laguna.sto@gmail.com",
+                     "internet_access":  "wlan",
+                     "name":  "ЛАГУНА",
+                     "name:ru":  "ЛАГУНА",
+                     "name:uk":  "ЛАГУНА",
+                     "opening_hours":  "Mo-Fr 09:00-18:00",
+                     "operator":  "Олег Фёдорович",
+                     "phone":  "+380 67 314 4813",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "node/4718642689",
+        "name":  "Шиномонтаж",
+        "lat":  49.7631700,
+        "lon":  24.0138924,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4718751889",
+        "name":  "Шино монтаж",
+        "lat":  49.8130918,
+        "lon":  24.0328915,
+        "phone":  null,
+        "street":  "вулиця Професора Петра Буйка",
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Sa 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:street":  "вулиця Професора Петра Буйка",
+                     "name":  "Шино монтаж",
+                     "name:ru":  "Шиномонтаж",
+                     "name:uk":  "Шино монтаж",
+                     "opening_hours":  "Mo-Sa 09:00-18:00",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4719740392",
+        "name":  "Шиномонтаж",
+        "lat":  49.8016860,
+        "lon":  24.0230580,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4719765992",
+        "name":  "Шиномонтаж",
+        "lat":  49.8003517,
+        "lon":  24.0690771,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4725682396",
+        "name":  "Шиномонтаж",
+        "lat":  49.8530582,
+        "lon":  24.0157517,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "check_date":  "2022-08-02",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4726010889",
+        "name":  "Шиномонтаж",
+        "lat":  49.8178509,
+        "lon":  23.9824532,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4726131790",
+        "name":  "Автоскло \"Анна\"",
+        "lat":  49.7840917,
+        "lon":  24.0128311,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Автоскло \"Анна\"",
+                     "name:uk":  "Автоскло \"Анна\"",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4727740093",
+        "name":  "Шиномонтаж",
+        "lat":  49.8092118,
+        "lon":  23.9760913,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж, вулканізація",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4731724321",
+        "name":  "Шиномонтаж",
+        "lat":  49.8289273,
+        "lon":  24.0112131,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4735963388",
+        "name":  null,
+        "lat":  49.7901428,
+        "lon":  24.0600273,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4756029572",
+        "name":  "СТО SsangYong",
+        "lat":  49.8231887,
+        "lon":  23.9861367,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО SsangYong",
+                     "name:uk":  "СТО SsangYong",
+                     "opening_hours":  "Mo-Fr 09:00-18:00",
+                     "operator":  "ТзОВ \"Компанія Сервіс-центр\"",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4761601221",
+        "name":  "Шиномонтаж",
+        "lat":  49.8151310,
+        "lon":  23.9604053,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4764011324",
+        "name":  "Шиномонтаж",
+        "lat":  49.7881940,
+        "lon":  23.9442195,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4764011822",
+        "name":  "Автосервіс",
+        "lat":  49.7880346,
+        "lon":  23.9442483,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Автосервіс",
+                     "name:uk":  "Автосервіс",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4776510098",
+        "name":  null,
+        "lat":  49.8669457,
+        "lon":  23.9561514,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4779800851",
+        "name":  null,
+        "lat":  49.8246449,
+        "lon":  24.0507329,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4796580011",
+        "name":  "Видалення вмятин без фарбування ASO",
+        "lat":  49.8411273,
+        "lon":  23.9834654,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Видалення вмятин без фарбування ASO",
+                     "name:uk":  "Видалення вмятин без фарбування ASO",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4805664821",
+        "name":  null,
+        "lat":  49.8756623,
+        "lon":  24.0657045,
+        "phone":  "+380 93 536 5464",
+        "street":  "Поліська вулиця",
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Su 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:street":  "Поліська вулиця",
+                     "email":  "obervanostap@gmail.com",
+                     "internet_access":  "wlan",
+                     "opening_hours":  "Mo-Su 09:00-18:00",
+                     "operator":  "Остап",
+                     "phone":  "+380 93 536 5464",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4853582286",
+        "name":  "СТО",
+        "lat":  49.8115312,
+        "lon":  23.9827251,
+        "phone":  "+380 67 760 1538",
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Sa 09:00-13:00, 14:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "description":  "Токар, реставрація, заміна мастил.",
+                     "email":  "stolviv@gmail.com",
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "opening_hours":  "Mo-Sa 09:00-13:00, 14:00-18:00",
+                     "phone":  "+380 67 760 1538",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4856387355",
+        "name":  "Ремонт глушників",
+        "lat":  49.8144246,
+        "lon":  23.9895198,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Ремонт глушників",
+                     "name:uk":  "Ремонт глушників",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4856387358",
+        "name":  "Автомайстерня",
+        "lat":  49.8144363,
+        "lon":  23.9896841,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Автомайстерня",
+                     "name:uk":  "Автомайстерня",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4927513721",
+        "name":  "4х4",
+        "lat":  49.8397091,
+        "lon":  24.0623722,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "4х4",
+                     "name:en":  "4х4",
+                     "name:ru":  "4х4",
+                     "name:uk":  "4х4",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/4952288621",
+        "name":  null,
+        "lat":  49.8299435,
+        "lon":  23.9430567,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/4977086521",
+        "name":  "Шиномонтаж",
+        "lat":  49.8297873,
+        "lon":  23.9421880,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/5071918722",
+        "name":  "Арал",
+        "lat":  49.8047857,
+        "lon":  24.0637442,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Арал",
+                     "name:uk":  "Арал",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/5194661921",
+        "name":  null,
+        "lat":  49.8013142,
+        "lon":  24.0716474,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/5290176833",
+        "name":  "СТО",
+        "lat":  49.8460466,
+        "lon":  23.9856756,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/6130552410",
+        "name":  null,
+        "lat":  49.8019397,
+        "lon":  24.0493922,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6167795044",
+        "name":  null,
+        "lat":  49.8089791,
+        "lon":  24.0194931,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6171719387",
+        "name":  null,
+        "lat":  49.8601650,
+        "lon":  24.0513816,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6171719441",
+        "name":  null,
+        "lat":  49.8016359,
+        "lon":  24.0735203,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6171752167",
+        "name":  "Автосервіс Фаетон",
+        "lat":  49.8474579,
+        "lon":  24.0228939,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Автосервіс Фаетон",
+                     "name:uk":  "Автосервіс Фаетон",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/6252637612",
+        "name":  null,
+        "lat":  49.8491148,
+        "lon":  23.9970669,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6369738602",
+        "name":  null,
+        "lat":  49.8280860,
+        "lon":  23.9521508,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6425009585",
+        "name":  "Автоелектроніка Львів",
+        "lat":  49.8106802,
+        "lon":  24.0568906,
+        "phone":  "+380 67 717 5491",
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 10:00-19:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:postcode":  "79034",
+                     "internet_access":  "wlan",
+                     "name":  "Автоелектроніка Львів",
+                     "name:en":  "Car Electronics Lviv",
+                     "name:uk":  "Автоелектроніка Львів",
+                     "opening_hours":  "Mo-Fr 10:00-19:00",
+                     "phone":  "+380 67 717 5491",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6428544298",
+        "name":  null,
+        "lat":  49.8106913,
+        "lon":  24.0542517,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/6709981085",
+        "name":  "Ssang Yong",
+        "lat":  49.8231819,
+        "lon":  23.9861343,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Ssang Yong",
+                     "name:uk":  "Ssang Yong",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/6709981185",
+        "name":  "КарданСервіс",
+        "lat":  49.7825153,
+        "lon":  24.0746885,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "КарданСервіс",
+                     "name:uk":  "КарданСервіс",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/7018992093",
+        "name":  "Сто на 100",
+        "lat":  49.8267884,
+        "lon":  23.9921970,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Сто на 100",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/7368369383",
+        "name":  "У Семена",
+        "lat":  49.8460258,
+        "lon":  23.9852987,
+        "phone":  "+380 67 722 2445",
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "description":  "Бокси 1-2-3. Діагностика та ремонт ходової частини автомобілів Sprinter та LT, заміна масла, реставрація шарових опор, рульових тяг.",
+                     "name":  "У Семена",
+                     "name:uk":  "У Семена",
+                     "opening_hours":  "Mo-Fr 09:00-18:00",
+                     "phone":  "+380 67 722 2445",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "node/7368396000",
+        "name":  "Ремонт стартерів і генераторів",
+        "lat":  49.8459324,
+        "lon":  23.9853162,
+        "phone":  "+380 67 977 2466",
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Ремонт стартерів і генераторів",
+                     "name:uk":  "Ремонт стартерів і генераторів",
+                     "phone":  "+380 67 977 2466",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/7650983759",
+        "name":  "Заміна олив",
+        "lat":  49.8013337,
+        "lon":  24.0421233,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Заміна олив",
+                     "name:uk":  "Заміна олив",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/7683112086",
+        "name":  "Автоелектроніка Львів",
+        "lat":  49.8100690,
+        "lon":  24.0555997,
+        "phone":  "+380 67 717 5491",
+        "street":  "вулиця Володимира Навроцького",
+        "housenr":  "69",
+        "city":  null,
+        "hours":  "Mo-Fr 10:00-19:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "69",
+                     "addr:postcode":  "79034",
+                     "addr:street":  "вулиця Володимира Навроцького",
+                     "internet_access":  "wlan",
+                     "name":  "Автоелектроніка Львів",
+                     "name:en":  "Car Electronics Lviv",
+                     "name:uk":  "Автоелектроніка Львів",
+                     "opening_hours":  "Mo-Fr 10:00-19:00",
+                     "phone":  "+380 67 717 5491",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "node/7694417056",
+        "name":  null,
+        "lat":  49.7503011,
+        "lon":  23.9353117,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/7797694419",
+        "name":  "Шиномонтаж",
+        "lat":  49.8085515,
+        "lon":  24.0498179,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "opening_hours":  "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/7797694420",
+        "name":  "Шипшина",
+        "lat":  49.8089548,
+        "lon":  24.0473396,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шипшина",
+                     "name:uk":  "Шипшина",
+                     "service:vehicle:car_parts":  "yes",
+                     "service:vehicle:tyres":  "yes",
+                     "service:vehicle:used_car_sales":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/8167797802",
+        "name":  "Шиномонтаж Нептун",
+        "lat":  49.8514277,
+        "lon":  24.0227888,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж Нептун",
+                     "name:uk":  "Шиномонтаж Нептун",
+                     "operator":  "Нептун",
+                     "service:vehicle:wheels":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/8591979807",
+        "name":  null,
+        "lat":  49.8422717,
+        "lon":  24.0681821,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/8624682556",
+        "name":  "У Романа",
+        "lat":  49.8457811,
+        "lon":  23.9855482,
+        "phone":  "+380 97 360 6590",
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "У Романа",
+                     "name:uk":  "У Романа",
+                     "opening_hours":  "Mo-Fr 09:00-18:00",
+                     "phone":  "+380 97 360 6590",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "node/9169071807",
+        "name":  "СТО",
+        "lat":  49.8373458,
+        "lon":  23.9613117,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО",
+                     "name:uk":  "СТО",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9178020656",
+        "name":  null,
+        "lat":  49.8406378,
+        "lon":  23.9807940,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/9253283556",
+        "name":  "Сто-п-шина шиномонтаж",
+        "lat":  49.8940281,
+        "lon":  23.9462423,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Сто-п-шина шиномонтаж",
+                     "name:uk":  "Сто-п-шина шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9265239450",
+        "name":  null,
+        "lat":  49.8556685,
+        "lon":  24.0348191,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/9267205411",
+        "name":  "Autopersona",
+        "lat":  49.8312059,
+        "lon":  24.0082470,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Autopersona",
+                     "name:uk":  "Autopersona",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9438724985",
+        "name":  null,
+        "lat":  49.7997410,
+        "lon":  24.0263137,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/9801080132",
+        "name":  "Ремонт дизельних форсунок та насосів",
+        "lat":  49.7864608,
+        "lon":  24.0160623,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Ремонт дизельних форсунок та насосів",
+                     "name:uk":  "Ремонт дизельних форсунок та насосів",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9801175637",
+        "name":  "Турбіна Львів",
+        "lat":  49.8094153,
+        "lon":  23.9736181,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "level":  "2",
+                     "name":  "Турбіна Львів",
+                     "name:uk":  "Турбіна Львів",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9831727491",
+        "name":  "вулкан",
+        "lat":  49.8153731,
+        "lon":  23.9613170,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "вулкан",
+                     "name:uk":  "вулкан",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9872281819",
+        "name":  "Шиномонтаж",
+        "lat":  49.8696286,
+        "lon":  23.9459577,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9872281917",
+        "name":  "Шиномонтаж",
+        "lat":  49.8677447,
+        "lon":  23.9527687,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/9973383292",
+        "name":  "Шиномонтаж",
+        "lat":  49.8066855,
+        "lon":  24.0592915,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-19:00; Sa 10:00-17:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "opening_hours":  "Mo-Fr 09:00-19:00; Sa 10:00-17:00",
+                     "service":  "tyres",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/10008850711",
+        "name":  "Ремонт автоматичних трансмісій",
+        "lat":  49.8126800,
+        "lon":  24.0697419,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  "СТО",
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "brand":  "СТО",
+                     "check_date":  "2022-09-08",
+                     "name":  "Ремонт автоматичних трансмісій",
+                     "name:uk":  "Ремонт автоматичних трансмісій",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/10241728208",
+        "name":  null,
+        "lat":  49.8061867,
+        "lon":  23.9805565,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "service:vehicle:oil_change":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/10565129134",
+        "name":  "Aps auto",
+        "lat":  49.8700392,
+        "lon":  24.0092527,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Aps auto",
+                     "name:uk":  "VianAuto",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/10776319361",
+        "name":  null,
+        "lat":  49.7831241,
+        "lon":  24.0517209,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/10860667264",
+        "name":  "СТО Б\u0026Л",
+        "lat":  49.7912628,
+        "lon":  24.0727210,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "СТО Б\u0026Л",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/10860685157",
+        "name":  null,
+        "lat":  49.7916449,
+        "lon":  24.0725614,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "service:vehicle:electrical":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/10875306144",
+        "name":  null,
+        "lat":  49.8262198,
+        "lon":  23.9911657,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/11145628311",
+        "name":  "TND GROUP",
+        "lat":  49.8990839,
+        "lon":  24.0492536,
+        "phone":  "0800300528",
+        "street":  "Жовківська",
+        "housenr":  "53",
+        "city":  null,
+        "hours":  "Mo-Fr 08:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "53",
+                     "addr:postcode":  "80381",
+                     "addr:street":  "Жовківська",
+                     "name":  "TND GROUP",
+                     "opening_hours":  "Mo-Fr 08:00-18:00",
+                     "phone":  "0800300528",
+                     "service:tir":  "yes",
+                     "service:vehicle:brakes":  "yes",
+                     "service:vehicle:diagnostics":  "yes",
+                     "service:vehicle:electrical":  "yes",
+                     "service:vehicle:inspection":  "yes",
+                     "service:vehicle:oil_change":  "yes",
+                     "service:vehicle:transmission":  "yes",
+                     "service:vehicle:truck_repair":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "node/11217899355",
+        "name":  "Start Motors",
+        "lat":  49.8405925,
+        "lon":  24.0419802,
+        "phone":  null,
+        "street":  "Личаківська вулиця",
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:street":  "Личаківська вулиця",
+                     "name":  "Start Motors",
+                     "service:vehicle:car_repair":  "yes",
+                     "service:vehicle:electrical":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/11269028783",
+        "name":  null,
+        "lat":  49.8078943,
+        "lon":  24.0622793,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "node/11459458222",
+        "name":  "Vian auto",
+        "lat":  49.7827771,
+        "lon":  24.0751380,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Vian auto",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/11730002506",
+        "name":  "A\u0026P Centr",
+        "lat":  49.8089321,
+        "lon":  24.0578721,
+        "phone":  "093 416 8323",
+        "street":  "Луганська вулиця, Львів",
+        "housenr":  "4",
+        "city":  null,
+        "hours":  "Mo-Sa 08:00-20:00",
+        "brand":  null,
+        "socials":  "https://www.facebook.com/profile.php?id=61554348694331",
+        "tags":  {
+                     "addr:housenumber":  "4",
+                     "addr:postcode":  "79000",
+                     "addr:street":  "Луганська вулиця, Львів",
+                     "contact:facebook":  "https://www.facebook.com/profile.php?id=61554348694331",
+                     "description":  "A\u0026P Centr - це автомайстерня, що спеціалізується на шиномонтажі, заправці автокондиціонерів, реставрації дисків, та порошковому фарбуванні. Крім того, ми пропонуємо алмазну проточку дисків, бортування низькопрофільних шин, ремонт бокових порізів шин.",
+                     "email":  "a.p.centr.lviv@gmail.com",
+                     "name":  "A\u0026P Centr",
+                     "opening_hours":  "Mo-Sa 08:00-20:00",
+                     "payment:cash":  "yes",
+                     "payment:credit_cards":  "yes",
+                     "payment:mastercard":  "yes",
+                     "payment:visa":  "yes",
+                     "phone":  "093 416 8323",
+                     "service:vehicle:air_conditioning":  "yes",
+                     "service:vehicle:diagnostics":  "yes",
+                     "service:vehicle:tyres":  "yes",
+                     "service:vehicle:wheels":  "yes",
+                     "shop":  "car_repair",
+                     "start_date":  "2022-09-01"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "node/12078877139",
+        "name":  "Maestro studio - витягування вм’ятин, полірування)",
+        "lat":  49.8627395,
+        "lon":  23.9954013,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "mobile":  "+380639659591",
+                     "name":  "Maestro studio - витягування вм’ятин, полірування)",
+                     "service":  "repair",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/12343126993",
+        "name":  "Bruhsell Шиномонтаж",
+        "lat":  49.8869102,
+        "lon":  23.9518531,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Bruhsell Шиномонтаж",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/12979796301",
+        "name":  "Геометрія коліс (розвал / сходження)",
+        "lat":  49.8573328,
+        "lon":  24.0416226,
+        "phone":  "0974302146",
+        "street":  "Промислова вулиця",
+        "housenr":  "25",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "25",
+                     "addr:street":  "Промислова вулиця",
+                     "name":  "Геометрія коліс (розвал / сходження)",
+                     "phone":  "0974302146",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "node/13157531401",
+        "name":  "ПрофіЦентр",
+        "lat":  49.8165848,
+        "lon":  23.8848471,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "ПрофіЦентр",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/13204808056",
+        "name":  "Тенти TIR",
+        "lat":  49.8356972,
+        "lon":  23.8753368,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "name":  "Тенти TIR",
+                     "name:uk":  "Тенти TIR",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "node/13273772501",
+        "name":  "Service Truck - Дизель серфіс",
+        "lat":  49.8960177,
+        "lon":  24.1411494,
+        "phone":  null,
+        "street":  "Київська вулиця",
+        "housenr":  "1",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "1",
+                     "addr:street":  "Київська вулиця",
+                     "name":  "Service Truck - Дизель серфіс",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/151664926",
+        "name":  null,
+        "lat":  49.8090875,
+        "lon":  24.0473246,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/152207075",
+        "name":  "Фенікс 555",
+        "lat":  49.8018314,
+        "lon":  24.0248595,
+        "phone":  "+380 96 609 9407",
+        "street":  "проспект Святого Івана Павла II",
+        "housenr":  "23",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "23",
+                     "addr:postcode":  "79031",
+                     "addr:street":  "проспект Святого Івана Павла II",
+                     "building":  "yes",
+                     "name":  "Фенікс 555",
+                     "name:uk":  "Фенікс 555",
+                     "phone":  "+380 96 609 9407",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "way/156068686",
+        "name":  null,
+        "lat":  49.8162639,
+        "lon":  24.0630112,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 09:00-15:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "industrial",
+                     "building:levels":  "1",
+                     "opening_hours":  "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 09:00-15:00",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/156336622",
+        "name":  "Сервіс Peugeout-Citroen",
+        "lat":  49.8125822,
+        "lon":  24.0699064,
+        "phone":  "+380 322 21 6915",
+        "street":  "Хлібна вулиця",
+        "housenr":  "4",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "4",
+                     "addr:postcode":  "79035",
+                     "addr:street":  "Хлібна вулиця",
+                     "name":  "Сервіс Peugeout-Citroen",
+                     "name:uk":  "Сервіс Peugeout-Citroen",
+                     "phone":  "+380 322 21 6915",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "way/160333686",
+        "name":  null,
+        "lat":  49.8407074,
+        "lon":  23.9640778,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "garage",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/163843567",
+        "name":  null,
+        "lat":  49.7820162,
+        "lon":  23.9620810,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "amenity":  "townhall",
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/164480928",
+        "name":  "Bosch Service",
+        "lat":  49.8513511,
+        "lon":  24.0486715,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  "Bosch Car Service",
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "brand":  "Bosch Car Service",
+                     "brand:wikidata":  "Q234021",
+                     "building":  "yes",
+                     "name":  "Bosch Service",
+                     "name:uk":  "Bosch Service",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/167231685",
+        "name":  null,
+        "lat":  49.8103057,
+        "lon":  24.0801635,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "description":  "Шиномонтаж",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/176768084",
+        "name":  null,
+        "lat":  49.8466490,
+        "lon":  24.0156098,
+        "phone":  null,
+        "street":  "Клепарівська вулиця",
+        "housenr":  "15",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "15",
+                     "addr:postcode":  "79007",
+                     "addr:street":  "Клепарівська вулиця",
+                     "building":  "commercial",
+                     "building:levels":  "2",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/180802071",
+        "name":  "Шиномонтаж",
+        "lat":  49.7966727,
+        "lon":  24.0161732,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/180965588",
+        "name":  "Шиномонтаж",
+        "lat":  49.8162948,
+        "lon":  24.0636474,
+        "phone":  null,
+        "street":  "вулиця Джорджа Вашингтона",
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:street":  "вулиця Джорджа Вашингтона",
+                     "building":  "yes",
+                     "building:levels":  "1",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/187155282",
+        "name":  "Шипшина",
+        "lat":  49.8166267,
+        "lon":  23.9254525,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su off",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building:part":  "yes",
+                     "name":  "Шипшина",
+                     "name:uk":  "Шипшина",
+                     "opening_hours":  "Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su off",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/187432584",
+        "name":  "\"Христина\" (BMW)",
+        "lat":  49.8255635,
+        "lon":  23.9377871,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-18:00; Sa 09:00-15:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "\"Христина\" (BMW)",
+                     "name:uk":  "\"Христина\" (BMW)",
+                     "opening_hours":  "Mo-Fr 09:00-18:00; Sa 09:00-15:00",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/187676303",
+        "name":  null,
+        "lat":  49.8066914,
+        "lon":  24.0746668,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "service",
+                     "building:levels":  "1",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/230543827",
+        "name":  "Автомайстерня",
+        "lat":  49.8288789,
+        "lon":  23.8346981,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Автомайстерня",
+                     "name:uk":  "Автомайстерня",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/233480808",
+        "name":  "Транс-Сервіс-1",
+        "lat":  49.7909424,
+        "lon":  23.9324493,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "building:levels":  "1",
+                     "name":  "Транс-Сервіс-1",
+                     "name:uk":  "Транс-Сервіс-1",
+                     "operator":  "Транс-Сервіс-1 ТзОВ",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/235154376",
+        "name":  null,
+        "lat":  49.8746943,
+        "lon":  23.9379458,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/241709707",
+        "name":  "Любе",
+        "lat":  49.8100635,
+        "lon":  23.9952267,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Любе",
+                     "name:uk":  "Любе",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/241794678",
+        "name":  "Шиномонтаж",
+        "lat":  49.8544301,
+        "lon":  24.0244595,
+        "phone":  null,
+        "street":  "Хімічна вулиця",
+        "housenr":  "20а",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "20а",
+                     "addr:postcode":  "79019",
+                     "addr:street":  "Хімічна вулиця",
+                     "building":  "yes",
+                     "building:levels":  "1",
+                     "check_date":  "2023-01-18",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "roof:shape":  "flat",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/242906209",
+        "name":  "Шиномонтаж",
+        "lat":  49.8659425,
+        "lon":  24.0445465,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/244075666",
+        "name":  "Ірен Автоцентр",
+        "lat":  49.8094299,
+        "lon":  24.0114810,
+        "phone":  null,
+        "street":  "вулиця Володимира Янева",
+        "housenr":  "1а",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "1а",
+                     "addr:postcode":  "79026",
+                     "addr:street":  "вулиця Володимира Янева",
+                     "building":  "yes",
+                     "building:levels":  "2",
+                     "name":  "Ірен Автоцентр",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/255112431",
+        "name":  "СТО \"Гараж 23\"",
+        "lat":  49.8220392,
+        "lon":  24.0127030,
+        "phone":  null,
+        "street":  "Бойківська вулиця",
+        "housenr":  "5",
+        "city":  null,
+        "hours":  "Mo-Fr 10:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "5",
+                     "addr:postcode":  "79044",
+                     "addr:street":  "Бойківська вулиця",
+                     "building:levels":  "1",
+                     "check_date":  "2024-09-14",
+                     "name":  "СТО \"Гараж 23\"",
+                     "name:uk":  "СТО \"Гараж 23\"",
+                     "opening_hours":  "Mo-Fr 10:00-18:00",
+                     "service:vehicle:detailing":  "yes",
+                     "service:vehicle:glass":  "yes",
+                     "service:vehicle:glass_repair":  "yes",
+                     "service:vehicle:painting":  "yes",
+                     "service:vehicle:tuning":  "yes",
+                     "service:vehicle:window_tinting":  "yes",
+                     "service:vehicle:windshields":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/282646837",
+        "name":  "СТО Рік-Авто",
+        "lat":  49.8095960,
+        "lon":  23.9736160,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "СТО Рік-Авто",
+                     "name:uk":  "СТО Рік-Авто",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/289466296",
+        "name":  null,
+        "lat":  49.8358216,
+        "lon":  24.0802143,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/326195109",
+        "name":  "Шиномонтаж",
+        "lat":  49.7983179,
+        "lon":  24.0158367,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/326196601",
+        "name":  null,
+        "lat":  49.7970600,
+        "lon":  24.0138949,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/343775529",
+        "name":  null,
+        "lat":  49.8585830,
+        "lon":  24.0446780,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/362661238",
+        "name":  "ТХТ, автосервіс",
+        "lat":  49.8260959,
+        "lon":  24.1540327,
+        "phone":  null,
+        "street":  "Проста вулиця",
+        "housenr":  "1",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "1",
+                     "addr:street":  "Проста вулиця",
+                     "name":  "ТХТ, автосервіс",
+                     "name:en":  "TXT, car repair shop",
+                     "name:uk":  "ТХТ, автосервіс",
+                     "service:vehicle:air_conditioning":  "yes",
+                     "service:vehicle:car_repair":  "yes",
+                     "service:vehicle:diagnostics":  "yes",
+                     "service:vehicle:oil_change":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/363643737",
+        "name":  "Hydroxy Power",
+        "lat":  49.8408247,
+        "lon":  24.1670947,
+        "phone":  "+38 067 883 90 28",
+        "street":  "вул. Тракт Глинянський",
+        "housenr":  "29",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "29",
+                     "addr:street":  "вул. Тракт Глинянський",
+                     "building":  "commercial",
+                     "name":  "Hydroxy Power",
+                     "name:uk":  "СТО Hydroxy",
+                     "operator":  "Hydroxy Ukraine",
+                     "phone":  "+38 067 883 90 28",
+                     "service:vehicle:repair":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "verified"
+    },
+    {
+        "osm_id":  "way/372453221",
+        "name":  null,
+        "lat":  49.7590059,
+        "lon":  24.0137467,
+        "phone":  null,
+        "street":  "вулиця Василя Стуса",
+        "housenr":  "2а",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "2а",
+                     "addr:street":  "вулиця Василя Стуса",
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/373249905",
+        "name":  null,
+        "lat":  49.8360835,
+        "lon":  23.9765541,
+        "phone":  null,
+        "street":  "вулиця Сяйво",
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:postcode":  "79052",
+                     "addr:street":  "вулиця Сяйво",
+                     "landuse":  "commercial",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/375806020",
+        "name":  "Форвард",
+        "lat":  49.8174550,
+        "lon":  24.0505315,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "building:levels":  "2",
+                     "name":  "Форвард",
+                     "name:uk":  "Форвард",
+                     "operator":  "Форвард",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/406164961",
+        "name":  "GreenCenter",
+        "lat":  49.8169527,
+        "lon":  24.0604662,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "GreenCenter",
+                     "service:vehicle:tyres":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/440323760",
+        "name":  null,
+        "lat":  49.8355208,
+        "lon":  23.9523982,
+        "phone":  null,
+        "street":  "вулиця Віктора Курмановича",
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:postcode":  "79052",
+                     "addr:street":  "вулиця Віктора Курмановича",
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/444403515",
+        "name":  "Шиномонтаж",
+        "lat":  49.7943150,
+        "lon":  24.0167031,
+        "phone":  null,
+        "street":  "Стрийська вулиця",
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:street":  "Стрийська вулиця",
+                     "building":  "yes",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/474019082",
+        "name":  null,
+        "lat":  49.8312923,
+        "lon":  23.8790774,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/474146182",
+        "name":  null,
+        "lat":  49.7973738,
+        "lon":  24.0829698,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/480281641",
+        "name":  null,
+        "lat":  49.8133998,
+        "lon":  23.8687203,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/492364422",
+        "name":  "Сто Білогорща",
+        "lat":  49.8488691,
+        "lon":  23.9305401,
+        "phone":  null,
+        "street":  "вулиця Христини Сушко-Скачківської",
+        "housenr":  "20",
+        "city":  null,
+        "hours":  "Mo-Fr 09:00-18:00",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "20",
+                     "addr:postcode":  "79052",
+                     "addr:street":  "вулиця Христини Сушко-Скачківської",
+                     "building":  "yes",
+                     "name":  "Сто Білогорща",
+                     "name:en":  "Repair station Bilohorscha",
+                     "name:uk":  "Сто Білогорща",
+                     "opening_hours":  "Mo-Fr 09:00-18:00",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/499365539",
+        "name":  null,
+        "lat":  49.8364483,
+        "lon":  24.0717009,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "building:levels":  "2",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/531957790",
+        "name":  null,
+        "lat":  49.8583052,
+        "lon":  24.0433251,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/533166728",
+        "name":  "Сихівський міст - шиномонтаж",
+        "lat":  49.8091428,
+        "lon":  24.0474697,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  "24/7",
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Сихівський міст - шиномонтаж",
+                     "name:uk":  "Сихівський міст - шиномонтаж",
+                     "opening_hours":  "24/7",
+                     "service:vehicle:tyres":  "yes",
+                     "service:vehicle:wheels":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/548992086",
+        "name":  null,
+        "lat":  49.8401646,
+        "lon":  23.8974387,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/562100482",
+        "name":  null,
+        "lat":  49.8079172,
+        "lon":  24.0607409,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/562100485",
+        "name":  "Шиномонтаж",
+        "lat":  49.8079391,
+        "lon":  24.0609988,
+        "phone":  null,
+        "street":  "Зелена вулиця",
+        "housenr":  "214а",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "214а",
+                     "addr:street":  "Зелена вулиця",
+                     "building":  "yes",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/591152340",
+        "name":  null,
+        "lat":  49.7949849,
+        "lon":  24.0705754,
+        "phone":  null,
+        "street":  "Соняшникова вулиця",
+        "housenr":  "26а",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "26а",
+                     "addr:street":  "Соняшникова вулиця",
+                     "building":  "residential",
+                     "residential":  "detached",
+                     "service":  "repair",
+                     "service:vehicle:transmission":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/610872797",
+        "name":  "Автосервіс АвтоШанс",
+        "lat":  49.8562691,
+        "lon":  23.9841487,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Автосервіс АвтоШанс",
+                     "name:uk":  "Автосервіс АвтоШанс",
+                     "service:vehicle:car_repair":  "yes",
+                     "service:vehicle:transmission":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/632396894",
+        "name":  null,
+        "lat":  49.7820840,
+        "lon":  23.9618701,
+        "phone":  null,
+        "street":  "Садова вулиця",
+        "housenr":  "18а",
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "addr:housenumber":  "18а",
+                     "addr:street":  "Садова вулиця",
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/666121779",
+        "name":  "Шиномонтаж",
+        "lat":  49.7631638,
+        "lon":  24.0138794,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "name":  "Шиномонтаж",
+                     "name:uk":  "Шиномонтаж",
+                     "payment:cash":  "yes",
+                     "service:vehicle:tyres_repair":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/692551019",
+        "name":  null,
+        "lat":  49.8106039,
+        "lon":  23.8553887,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/874576805",
+        "name":  null,
+        "lat":  49.7185485,
+        "lon":  23.9028345,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/1000263738",
+        "name":  "СтарСервіс",
+        "lat":  49.8015398,
+        "lon":  23.9797614,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "description":  "Продаж, ремонт стартерів і генераторів.",
+                     "name":  "СтарСервіс",
+                     "name:uk":  "СтарСервіс",
+                     "shop":  "car_repair"
+                 },
+        "status":  "not_verified"
+    },
+    {
+        "osm_id":  "way/1050080666",
+        "name":  null,
+        "lat":  49.7973225,
+        "lon":  24.0847670,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    },
+    {
+        "osm_id":  "way/1431964773",
+        "name":  null,
+        "lat":  49.8563287,
+        "lon":  24.0350832,
+        "phone":  null,
+        "street":  null,
+        "housenr":  null,
+        "city":  null,
+        "hours":  null,
+        "brand":  null,
+        "socials":  {
+
+                    },
+        "tags":  {
+                     "building":  "yes",
+                     "shop":  "car_repair"
+                 },
+        "status":  "rejected"
+    }
+]

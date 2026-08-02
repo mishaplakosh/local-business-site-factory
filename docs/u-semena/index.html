@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>У Семена — ремонт ходової Sprinter та LT у Львові</title>
+<meta name="description" content="Автосервіс «У Семена», Львів: діагностика та ремонт ходової Mercedes Sprinter і VW LT, реставрація шарових опор, рульові тяги, заміна масла. Пн–Пт 09:00–18:00.">
+<style>
+  :root{
+    --green:#14351f;
+    --green-2:#1d4a2b;
+    --yellow:#f5c518;
+    --paper:#f4f2ec;
+    --ink:#1b1f1c;
+    --muted:#5c6660;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:system-ui,-apple-system,'Segoe UI',sans-serif;
+    background:var(--paper);
+    color:var(--ink);
+    line-height:1.55;
+  }
+  .wrap{max-width:960px;margin:0 auto;padding:0 20px}
+
+  /* ---------- hero ---------- */
+  .hero{
+    background:
+      repeating-linear-gradient(-45deg, transparent 0 34px, rgba(245,197,24,.05) 34px 38px),
+      linear-gradient(160deg,var(--green) 0%,var(--green-2) 100%);
+    color:#fff;
+    padding:28px 0 40px;
+  }
+  .brand{
+    display:flex;align-items:center;gap:10px;
+    font-weight:800;font-size:1.05rem;letter-spacing:.04em;text-transform:uppercase;
+  }
+  .brand svg{flex:none}
+  .hero h1{
+    margin-top:34px;
+    font-size:clamp(1.7rem,6.5vw,2.9rem);
+    line-height:1.15;
+    font-weight:800;
+    letter-spacing:-.01em;
+  }
+  .hero h1 em{font-style:normal;color:var(--yellow)}
+  .hero p.sub{
+    margin-top:14px;
+    font-size:1.02rem;
+    color:#d8ded7;
+    max-width:34em;
+  }
+  .cta{
+    display:inline-flex;align-items:center;gap:10px;
+    margin-top:24px;
+    background:var(--yellow);color:#211a00;
+    font-weight:800;font-size:1.08rem;
+    padding:15px 26px;border-radius:10px;
+    text-decoration:none;
+    box-shadow:0 4px 0 rgba(0,0,0,.35);
+  }
+  .cta:active{transform:translateY(2px);box-shadow:0 2px 0 rgba(0,0,0,.35)}
+  .hero .hours-line{
+    margin-top:16px;font-size:.92rem;color:#b9c4ba;
+    display:flex;align-items:center;gap:8px;
+  }
+  .tag{
+    display:inline-block;margin-top:26px;
+    border:1px solid rgba(245,197,24,.5);color:var(--yellow);
+    font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+    padding:5px 12px;border-radius:999px;
+  }
+
+  /* ---------- sections ---------- */
+  section{padding:44px 0}
+  h2{
+    font-size:1.35rem;font-weight:800;letter-spacing:-.01em;
+    margin-bottom:6px;
+  }
+  .kicker{
+    color:var(--muted);font-size:.82rem;font-weight:700;
+    text-transform:uppercase;letter-spacing:.1em;margin-bottom:4px;
+  }
+  .lead{color:var(--muted);max-width:38em;margin-bottom:22px}
+
+  .services{display:grid;gap:14px}
+  .card{
+    background:#fff;border:1px solid #e3e0d6;border-radius:12px;
+    padding:18px;display:flex;gap:14px;align-items:flex-start;
+  }
+  .card .ic{
+    flex:none;width:44px;height:44px;border-radius:10px;
+    background:var(--green);display:flex;align-items:center;justify-content:center;
+  }
+  .card h3{font-size:1.02rem;font-weight:700;margin-bottom:3px}
+  .card p{font-size:.92rem;color:var(--muted)}
+
+  .boxes{
+    margin-top:22px;background:var(--green);color:#fff;
+    border-radius:12px;padding:18px 20px;
+    display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+  }
+  .boxes .nums{display:flex;gap:8px}
+  .boxes .n{
+    width:38px;height:38px;border-radius:8px;background:var(--yellow);color:#211a00;
+    display:flex;align-items:center;justify-content:center;font-weight:800;font-size:1.05rem;
+  }
+  .boxes span{font-size:.95rem;color:#d8ded7}
+
+  /* ---------- hours ---------- */
+  .hours{background:#fff;border-top:1px solid #e3e0d6;border-bottom:1px solid #e3e0d6}
+  .hours-grid{display:grid;gap:6px;max-width:26em}
+  .hours-row{
+    display:flex;justify-content:space-between;gap:16px;
+    padding:10px 14px;border-radius:8px;font-size:.98rem;
+  }
+  .hours-row.open{background:var(--paper);font-weight:700}
+  .hours-row.closed{color:var(--muted)}
+
+  /* ---------- contacts ---------- */
+  .contact-card{
+    background:#fff;border:1px solid #e3e0d6;border-radius:12px;
+    overflow:hidden;
+  }
+  .contact-info{padding:20px}
+  .contact-info a.phone{
+    display:inline-flex;align-items:center;gap:10px;
+    font-size:1.25rem;font-weight:800;color:var(--green-2);text-decoration:none;
+  }
+  .contact-info p{margin-top:10px;font-size:.95rem;color:var(--muted)}
+  .contact-info .note{font-size:.85rem;margin-top:6px}
+  .mapbox{border-top:1px solid #e3e0d6}
+  .mapbox iframe{display:block;width:100%;height:300px;border:0}
+  .map-link{display:block;padding:10px 20px;font-size:.85rem;color:var(--muted);text-decoration:none;background:#fff}
+
+  footer{
+    background:var(--green);color:#b9c4ba;
+    padding:26px 0;font-size:.85rem;
+  }
+  footer a{color:var(--yellow);text-decoration:none;font-weight:700}
+
+  @media (min-width:720px){
+    .hero{padding:36px 0 64px}
+    .services{grid-template-columns:1fr 1fr}
+    section{padding:56px 0}
+    .mapbox iframe{height:380px}
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="brand">
+      <svg width="30" height="30" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path d="M21.7 13.35a1 1 0 0 0 0-1.41l-2.12-2.12a4.5 4.5 0 0 0-5.83-5.4l2.6 2.6-2.83 2.83-2.6-2.6a4.5 4.5 0 0 0 5.4 5.83l2.12 2.12-6.72 6.72" stroke="#f5c518" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M9.5 14.5 3.4 20.6a1.5 1.5 0 0 0 2.12 2.12l4.1-4.1" stroke="#f5c518" stroke-width="1.8" stroke-linecap="round"/>
+      </svg>
+      У Семена
+    </div>
+
+    <span class="tag">Мікроавтобуси Sprinter · LT</span>
+
+    <h1>Ходова частина <em>Sprinter</em> та <em>LT</em> — діагностика і ремонт у Львові</h1>
+    <p class="sub">Спеціалізований сервіс для мікроавтобусів Mercedes-Benz Sprinter і Volkswagen LT. Три робочі бокси, робота по ходовій, рульовому та заміна масла.</p>
+
+    <a class="cta" href="tel:+380677222445">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path d="M22 16.9v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.18 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.9z" stroke="#211a00" stroke-width="1.8" stroke-linejoin="round"/>
+      </svg>
+      Зателефонувати Семену
+    </a>
+
+    <div class="hours-line">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <circle cx="12" cy="12" r="9" stroke="#b9c4ba" stroke-width="1.8"/>
+        <path d="M12 7v5l3 3" stroke="#b9c4ba" stroke-width="1.8" stroke-linecap="round"/>
+      </svg>
+      Пн–Пт 09:00–18:00 · +380 67 722 2445
+    </div>
+  </div>
+</header>
+
+<section id="poslugy">
+  <div class="wrap">
+    <p class="kicker">Що робимо</p>
+    <h2>Послуги сервісу</h2>
+    <p class="lead">Працюємо з ходовою частиною мікроавтобусів Sprinter та LT — від діагностики до реставрації вузлів.</p>
+
+    <div class="services">
+      <div class="card">
+        <div class="ic">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <circle cx="12" cy="12" r="8.5" stroke="#f5c518" stroke-width="1.8"/>
+            <circle cx="12" cy="12" r="2" fill="#f5c518"/>
+            <path d="M12 5.5V9M12 15v3.5M5.5 12H9M15 12h3.5" stroke="#f5c518" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div>
+          <h3>Діагностика та ремонт ходової</h3>
+          <p>Знаходимо причину стуків, люфтів і нерівного ходу — і усуваємо її.</p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="ic">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <circle cx="12" cy="7" r="3.2" stroke="#f5c518" stroke-width="1.8"/>
+            <path d="M12 10.2v4M8 21c0-2.8 1.8-4.8 4-4.8s4 2 4 4.8" stroke="#f5c518" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div>
+          <h3>Реставрація шарових опор</h3>
+          <p>Реставрація замість заміни вузла цілком.</p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="ic">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <circle cx="12" cy="12" r="8.5" stroke="#f5c518" stroke-width="1.8"/>
+            <circle cx="12" cy="12" r="3.2" stroke="#f5c518" stroke-width="1.8"/>
+            <path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3" stroke="#f5c518" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div>
+          <h3>Рульові тяги</h3>
+          <p>Реставрація рульових тяг Sprinter та LT.</p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="ic">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M12 3.5s6 6.7 6 11a6 6 0 0 1-12 0c0-4.3 6-11 6-11z" stroke="#f5c518" stroke-width="1.8" stroke-linejoin="round"/>
+            <path d="M9.5 14.5a2.5 2.5 0 0 0 2.5 2.5" stroke="#f5c518" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div>
+          <h3>Заміна масла</h3>
+          <p>Планова заміна масла для Sprinter та LT.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="boxes">
+      <div class="nums"><span class="n">1</span><span class="n">2</span><span class="n">3</span></div>
+      <span>Три робочі бокси</span>
+    </div>
+  </div>
+</section>
+
+<section class="hours" id="grafik">
+  <div class="wrap">
+    <p class="kicker">Коли працюємо</p>
+    <h2>Графік роботи</h2>
+    <p class="lead">Приїздіть у будній день або спершу зателефонуйте — узгодимо час.</p>
+    <div class="hours-grid">
+      <div class="hours-row open"><span>Понеділок – П'ятниця</span><span>09:00 – 18:00</span></div>
+      <div class="hours-row closed"><span>Субота – Неділя</span><span>вихідні</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="kontakty">
+  <div class="wrap">
+    <p class="kicker">Де нас знайти</p>
+    <h2>Контакти</h2>
+    <p class="lead">Найшвидше — подзвонити. Семен підкаже, як зручно доїхати.</p>
+
+    <div class="contact-card">
+      <div class="contact-info">
+        <a class="phone" href="tel:+380677222445">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M22 16.9v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.18 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.9z" stroke="#1d4a2b" stroke-width="1.8" stroke-linejoin="round"/>
+          </svg>
+          +380 67 722 2445
+        </a>
+        <p>Львів, район вул. Городоцької / Рудно</p>
+        <p class="note">Точне розташування — на карті нижче. Перед візитом краще зателефонувати.</p>
+      </div>
+      <div class="mapbox">
+        <iframe
+          title="Карта: автосервіс «У Семена»"
+          src="https://www.openstreetmap.org/export/embed.html?bbox=23.9753%2C49.8410%2C23.9953%2C49.8510&amp;layer=mapnik&amp;marker=49.8460258%2C23.9852987"
+          loading="lazy"></iframe>
+        <a class="map-link" href="https://www.openstreetmap.org/?mlat=49.8460258&amp;mlon=23.9852987#map=16/49.84603/23.98530">Відкрити карту більшою (OpenStreetMap)</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Автосервіс «У Семена» · Львів · Пн–Пт 09:00–18:00 · <a href="tel:+380677222445">+380 67 722 2445</a>
+  </div>
+</footer>
+
+</body>
+</html>
